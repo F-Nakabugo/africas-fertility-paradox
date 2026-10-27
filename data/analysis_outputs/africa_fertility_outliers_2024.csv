@@ -1,0 +1,7 @@
+country,gdp_group,fertility_rate,fertility_zscore,deviation_direction,deviation_category
+Angola,3,5.048,2.35,"Higher than GDP peers","Extreme deviation"
+Kenya,2,3.167,-1.95,"Lower than GDP peers","Notable deviation"
+Lesotho,1,2.664,-1.93,"Lower than GDP peers","Notable deviation"
+Mauritania,2,4.625,1.61,"Higher than GDP peers","Notable deviation"
+Ghana,2,3.344,-1.52,"Lower than GDP peers","Notable deviation"
+"Côte d'Ivoire",3,4.23,1.51,"Higher than GDP peers","Notable deviation"

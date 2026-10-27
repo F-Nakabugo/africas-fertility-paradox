@@ -1,0 +1,28 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and disposable database dumps
+*.log
+*.tmp
+*.bak
+
+# NOTE: Do not ignore source data indiscriminately; decide what to publish
+# after checking provenance, size, redistribution rights and privacy.
