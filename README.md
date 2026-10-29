@@ -1,9 +1,10 @@
-# Africa’s Fertility Paradox
+# Africa’s Fertility Rate Has Fallen By Nearly 27% in Just 24 Years
 
 **Fertility trends, socioeconomic associations, and demographic outliers (2000–2024)**  
 Tools: **MySQL** for data preparation and outlier detection; **Python (pandas, Seaborn/Matplotlib)** for correlations and visualization.
 
-> **Reproduction status:** All **seven included CSV-to-Python analyses** have been rerun and checked against the recorded findings. The six SQL scripts retain the original stepwise workflow, but **full reconstruction from raw World Bank downloads is not yet established** because the original raw imports and exact source metadata are unavailable. See [validation details](docs/validation_record.md).
+> This project explores how **fertility rates** have changed across 54 African countries between 2000 and 2024 using **World Bank data**. Through MySQL analysis and Python visualizations, it examines the relationships between fertility rates and socioeconomic indicators, including `GDP per capita`, `urbanization`, and `female secondary school enrollment`. The project also identifies countries with unusually high or low fertility rates compared to their economic peers in 2024.
+
 
 ## Research questions
 
